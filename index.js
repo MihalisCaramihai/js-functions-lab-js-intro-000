@@ -8,6 +8,3 @@ function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
 
-function happyHolidaysTo(holidays, nsmr){
-  return "Happy ${holidays}, ${name}"
-}
