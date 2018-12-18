@@ -4,7 +4,7 @@ function happyHolidays () {
   return "Happy holidays!";
 }
 
-function happyHolidaysTo(name) = ("Mike"){
-  if "(name" = "Mike")
-  return "Happy holiday, ${name}!"
-}
+ function happyHolidaysTo (name) {
+   return "Happy holidays, " + ${name} + "!";{
+   return `Happy holidays, ${name}!`;
+ }	 }
