@@ -7,3 +7,7 @@ function happyHolidays () {
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
+
+function happyHolidaysTo(holydays, nsmr){
+  return "Happy ${holidays}, ${name}"
+}
