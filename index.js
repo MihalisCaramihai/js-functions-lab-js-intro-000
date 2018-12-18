@@ -6,4 +6,5 @@ function happyHolidays () {
 
 function happyHolidaysTo(name) {
   return '"Happy Holidays", $(name)'
+  "Happy holidays to you"
 }
