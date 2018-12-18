@@ -5,6 +5,3 @@ function happyHolidays () {
 }
 
 
-function happyHolidaysTo(name){
-  return happyHolidaysTo('you') === "Happy holidays, you!";
-}
