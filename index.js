@@ -4,7 +4,6 @@ function happyHolidays () {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(name) === "happy holidays, you!"{
+function happyHolidaysTo(name) === "Happy holidays, you!"{
   return 'Happy holidays, $(name)!'
-  happyHolidaysTo('you') === "Happy holidays, you!"
 }
