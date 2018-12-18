@@ -4,10 +4,14 @@ function happyHolidays () {
   return "Happy holidays!";
 }
 
-function happyHolidaysTo(){
-  if ("name" === "you")
+function happyHolidaysTo(name), (){
+  if name = "you"
   return "Happy holiday, ${name}!"
 }
 
 
- 
+ describe('happyHolidaysTo(name)', () => {
+    it('returns "Happy holidays, ${name}!"', () => {
+      expect(happyHolidaysTo('you')).toEqual('Happy holidays, you!')
+    })
+  })
